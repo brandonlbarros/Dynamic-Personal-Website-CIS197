@@ -1,0 +1,67 @@
+.bio {
+    background: rgb(255, 255, 255);
+    border: 3px solid grey;
+    box-shadow: rgb(0 0 0 / 30%) 0px 1px 18px;
+    padding: 10px;
+    min-height: 300px;
+    margin: 8px;
+}
+
+.postList {
+    background: rgb(255, 255, 255);
+    border: 3px solid rgb(75, 71, 71);
+    box-shadow: rgb(0 0 0 / 30%) 0px 1px 18px;
+    padding: 10px;
+    min-height: 100px;
+    margin: 8px;
+}
+
+.posts {
+    background: rgb(255, 255, 255);
+    border: 3px solid grey;
+    box-shadow: rgb(0 0 0 / 30%) 0px 1px 18px;
+    padding: 20px;
+    min-height: 100px;
+    margin: 8px;
+    text-align: center;
+}
+
+.button {
+    font-size: 15px;
+    border: 2px solid rgb(6, 39, 51);
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    background: rgb(112, 208, 243);
+    color: rgb(255, 255, 255) !important;
+    margin: 3px;
+}
+
+.center {
+    text-align: center;
+    padding: 10px;
+}
+.dataSection {
+    text-align: center;
+    padding: 10px;
+}
+
+.dataEntry {
+    margin: 1px;
+    border: 2px solid rgb(6, 39, 51);
+    border-radius: 5px;
+    min-height: 25px;
+}
+
+.right {
+    float: right;
+    padding: 10px;
+}
+
+
+.leftT {
+    float: left;
+    padding: 1px;
+}
